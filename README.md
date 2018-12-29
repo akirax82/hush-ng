@@ -22,6 +22,9 @@ You must have NodeJS and npm installed: https://nodejs.org/en/download/
     git clone https://github.com/MyHush/hush-ng
     cd hush-ng
 
+    # install dependencies (for Windows- run the following in command prompt or powershell after installation of nodejs)
+    npm install --global --production windows-build-tools
+
     # install dependencies
     npm install
 
